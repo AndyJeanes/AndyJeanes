@@ -1,4 +1,8 @@
 <!-- A simple Bio for my GitHub Profile -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFtdHZ3enppbmVqYThzZGxxbDBpZGpxZG81bnllNXR5OWZ1dGFmdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXHwJv89PvdN200Anr/giphy.gif" width="300"/>
+</div>
+
 ### Hi, I'm Andy!
 
 ### About Me:
