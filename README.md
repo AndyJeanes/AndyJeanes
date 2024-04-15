@@ -6,10 +6,10 @@
 ### Hi, I'm Andy!
 
 ### About Me:
-💫 Web Developer shareing my journey and learning in Tech<br/>
+💫 Web Developer shearing my journey and learning in Tech<br/>
 🌐 Studied [FdSc Computing & Information Technology] (https://tinyurl.com/City-of-Bristol-College) at City of Bristol College, Bristol<br/>
 💻 I develop visually appealing Websites from Front-End to Back-End that fit your business needs<br/>
-📊 Currently furthering my understanding of verious programing languages to fill skills gap [Full Stack Web Development] (https://www.hyperiondev.com/bootcamps/web-development/) Online through HyperionDev<br/>
+📊 Currently furthering my understanding of various programming languages to fill skills gap [Full Stack Web Development] (https://www.hyperiondev.com/bootcamps/web-development/) Online through HyperionDev<br/>
 🏆 Also furthering my understanding of Cyber Security, Ethical Hacking, Networking and Communications Systems<br/>
 
 ### Socials:
